@@ -1,4 +1,5 @@
-# urban-broccoli
+# hydro-viz
+
 Methods to summarize data in hydrobasins
 
 These methods were developed for a presentaton and IALE-NA in 2025, Raleigh North Carolina USA.
@@ -17,9 +18,11 @@ Files included in this repository:
 6. hydrobasins, level 8: https://www.hydrosheds.org/products/hydrobasins
 "hybas_na_lev08_v1cSWCASC.shp" (zipfile)
 
-Other data required to run the code are available heres: https://www.sciencebase.gov/catalog/item/6920ef6dd4be025bc609c70e
+Other data required to run the code are available here: 
+
+https://www.sciencebase.gov/catalog/item/6920ef6dd4be025bc609c70e
 
 Including:
-1. Fire perimeters for three ecoregions of southwestern US and Sierra Madre Norte:
+1. Fire perimeters for three ecoregions of southwestern US and Sierra Madre Norte
 2. Anthopogenic biomes (derived from population, vegetation type and land use)
 3. Roadless volume (a measure of remoteness)
