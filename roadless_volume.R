@@ -45,7 +45,7 @@ hyrv_eco<-st_intersection(hy8_rv, eco3utm) #519
 hyrv_eco2<-st_transform(hyrv_eco, crs="EPSG:4326")
 plot(hyrv_eco2["rv_km3"])
 ## change to your output directory
-st_write(hy8_rv, "./data/xvar_outputs/hy8_RV.shp")
+st_write(hyrv_eco2, "./data/hydrobasins/hydro8_Roadless_Volume.shp")
 
 ## plot
 ## 
