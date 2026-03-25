@@ -2,7 +2,7 @@
 
 Methods to summarize data in hydrobasins
 
-These methods were developed for a presentaton given at IALE-NA in 2025, Raleigh North Carolina USA.
+These methods were developed for a presentation given at IALE-NA in 2025, Raleigh North Carolina USA.
 
 Results are posted on Data Basin and can be viewed in this gallery, 
 
